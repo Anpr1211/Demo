@@ -45,4 +45,4 @@ seaborn == 0.10.1
 # C:\Users\Ankita\Desktop\Dimensionless\Capstone_Projects\Uber_Analytics\Linear Regression.ipynb: 6,7,8,9
 sklearn == 0.0
 
-voila
+voila == 0.1.7

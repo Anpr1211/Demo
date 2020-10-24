@@ -28,3 +28,5 @@ scipy == 1.4.1
 # Demo-main/Descriptive Analysis.ipynb: 4
 # Demo-main/Linear Regression.ipynb: 4
 seaborn == 0.10.0
+
+voila
